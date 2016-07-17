@@ -1,1 +1,9 @@
 /* CSS declarations go here */
+.w3-input {
+  width: 30%;
+}
+
+.myHeader {
+  color: whitesmoke;
+  text-shadow: 1px 1px 7px grey;
+}
